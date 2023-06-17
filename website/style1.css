@@ -1,0 +1,58 @@
+#baslık{
+    text-align: center;
+    position: relative;
+    left: 15%;
+    
+    margin-bottom: 8%;
+    margin-top: 4%;
+}
+body{
+    background-color: rgb(255, 241, 236);
+}
+.material-icons{
+    font-size: 48px;
+}
+.card-title{
+    position: relative;
+    left: 5%;
+}
+.card-text{
+    position: relative;
+    left: 4%;
+}
+
+.navbar navbar-expand-lg navbar-light bg-light{
+    position: relative;
+    margin-left: 5%;
+}
+
+.card-body{
+    background-color: lightgoldenrodyellow;
+}
+
+.btn  {
+    position: relative;
+    margin-left: 5%;
+}
+.card-title{
+    font-size: 25px;
+}
+.card1{
+    position: relative;
+    margin-left: 10%;
+}
+.col1 {
+    position: relative;
+    margin-left: 4%;
+    
+}
+.navbar{
+    margin-bottom: 7%;
+}
+.form-check{
+    position: relative;
+    margin-left: 4%;
+}
+.card-img-top{
+    margin-bottom: 5%;
+}
